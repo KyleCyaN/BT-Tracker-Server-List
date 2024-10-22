@@ -1,3 +1,4 @@
+http://nyaa.tracker.wf:7777/announce
 http://kinorun.com/announce.php
 http://www.zone-torrent.net:80/announce.php
 udp://denis.stalker.upeer.me:1337/announce
